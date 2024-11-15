@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - E-Ya&#39;s Blog</title>
+        <link>https://yty101.github.io/posts/</link>
+        <description>All Posts | E-Ya&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Nov 2024 11:47:11 &#43;0800</lastBuildDate><atom:link href="https://yty101.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First Step</title>
+    <link>https://yty101.github.io/first_post/</link>
+    <pubDate>Fri, 15 Nov 2024 11:47:11 &#43;0800</pubDate>
+    <author>E-Ya</author>
+    <guid>https://yty101.github.io/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/posts/first_post/featured-image.jpg" referrerpolicy="no-referrer">
+            </div>1.总纲  需求风险  前期和用户沟通 通过简易的方式验证需求  目标群体  找准最初的目标客户 扩展目标客户时，尝试用“同样的方法”售卖 考虑目标客户群体之间的相互影响 用收费的方式进一步筛选目标客户（远见者，创新者）  早期的市场细分定位  在细分市场中建立早期优势 为 “卖” 服务 先站住细分根据地，再发展新市场  2.如何给产品定价  分类  客户价值导向 成本导向 竞争导向  价值定价  选择价值定价而非成本定价 例子：分成定价，部分高毛利反过来进行更好的服务  如何找到产品价值  细分市场，明确价值定位 询问客户：“你希望我们的产品给你解决什么问题” 价格测试，摸清价格段 找时机不断提高价格，直到得到用户的抵触 大部分的创新公司实际收费不足  想清楚你的目的，再考虑低价  为了获得第一批种子客户 策略性地获得某个特殊客户 设置低价留住客户  3.如何行动卖出产品  变现方式一般比较固定，尽量将精力放在获取客户
+主要的获客思路  2B: 通过人脉主动了解客户名单，直接拜访 2C: 做“内容”，运营内容阵地 要能直接与客户建立联系，加速产品迭代  eg: standard robots
+内容是最好的获客方式 Do things that don&rsquo;t scale.]]></description>
+</item>
+</channel>
+</rss>
