@@ -30,7 +30,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "http:\/\/example.org\/poke\/"
-        },"genre": "posts","wordcount":  13 ,
+        },"genre": "posts","wordcount":  19 ,
         "url": "http:\/\/example.org\/poke\/","datePublished": "2024-11-17T11:52:57+08:00","dateModified": "2024-11-17T11:52:57+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -104,7 +104,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Poke</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>E-Ya</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2024-11-17">2024-11-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;13 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2024-11-17">2024-11-17</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;19 words&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;One minute&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
@@ -142,6 +142,14 @@
 <ul>
 <li>创建第一个flutter应用Namer App, 成功在手机，电脑，网页三平台运行，初步了解了flutter语法</li>
 <li>尝试结合firebase进行网络聊天demo的开发，为后续开发聊天功能做准备</li>
+<li>这里遇到一个问题：在尝试进行firebase配置时，使用firebase login命令登陆失败
+<ul>
+<li>查询得知是由于使用了代理，而firebase目前不支持代理下的登陆</li>
+<li>解决，配置终端代理：打开代理软件（这里用的clash），点击终端图标，复制终端代理命令，Powershell运行，然后firebase login成功</li>
+<li>后续，上述方法只能用于单个窗口，在新的终端中失效，于是尝试在环境变量中直接进行配置，这里根据终端代理命令配置即可，这样做的副作用未知</li>
+</ul>
+</li>
+<li></li>
 </ul>
 <h3 id="结合语言模型api">结合语言模型API</h3>
 <h3 id="服务器搭建上传">服务器搭建上传</h3>
